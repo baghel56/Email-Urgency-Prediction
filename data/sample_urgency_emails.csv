@@ -1,0 +1,6 @@
+email_id,subject,body,urgency
+1,Payment failed,My payment failed and money was deducted,High
+2,Order delayed,My order is delayed please check,Medium
+3,Thank you,Thanks for your great service,Low
+4,Refund request,Please refund the amount immediately,High
+5,Account query,I have a question about my account,Low
